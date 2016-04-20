@@ -13,7 +13,7 @@
   },
   "author": "Brent Vatne <brentvatne@gmail.com> (https://github.com/brentvatne)",
   "license": "ISC",
-  "dependencies": {
+  "peerDependencies": {
     "events": "1.0.2",
     "flux": "2.0.3",
     "underscore": "1.8.3"
